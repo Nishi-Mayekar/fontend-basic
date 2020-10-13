@@ -1,6 +1,6 @@
-# fontend-basic
-This repository will contain all the basic and practise code related to front-end development.
+# Page Transition
+This shows the page transition that is the color changes as you scroll.
 
-#page-transition
+
 image used: https://www.pexels.com/photo/calm-waters-clouds-cold-daylight-464362/
 
